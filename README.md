@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Udit
 - 💼 Senior Business Intelligence Analyst @Syneos Health
-- 🌱 Passionate about Data Analytics/Data Science
+- 🌱 Passionate about Business Intelligence Analytics / Data Analysis
 - 🤝 I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: [Linkedin](https://linkedin.com/in/uditbhadana/) or Email- udit2732@proton.me
 
